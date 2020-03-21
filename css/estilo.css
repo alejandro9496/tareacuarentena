@@ -1,0 +1,40 @@
+html{
+	background: #E8E4E4;
+}
+body{
+	background: #B3ACAC;
+	width: 72%;
+	margin:0 auto;
+	margin-top: 10px;
+	padding: 5% ;
+}
+h1{
+	text-align: center;
+	margin-top: 40px;
+}
+h2{
+	margin-left: 15px;
+}
+div{
+	margin-left: 15px;
+	width: 33%;
+	padding: 3%;
+	border: solid 1px #B3ACAC;
+	box-sizing: 5px 5px 5px 5px #CEC9C9;
+	box-shadow: 2px 2px 2px 5px #BAB4B4;
+	text-align: justify;
+}
+a{
+	color: #FA570F;
+	font-style: italic;
+	font-weight: bold;
+}
+footer{
+	text-align: center;
+}
+img{
+	float: left;
+}
+
+
+

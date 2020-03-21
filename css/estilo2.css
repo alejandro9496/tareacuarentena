@@ -1,0 +1,46 @@
+html{
+	background: white;
+}
+body{
+	background:#CBC6C6;
+	margin: 80px;
+}
+header{
+	margin-bottom: 40px;
+}
+h1{
+	padding-top: 30px;
+	text-align: center;
+	font-family: arial;
+	font-size: 1.3cm;
+	letter-spacing: 5px;
+}
+h2{
+	padding: 0.5% 0.5%;
+	background: grey;
+	font-family: arial;
+	font-size: 0.8cm;
+	color: white;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+div{
+	width: 85%;	
+}
+
+p{
+	text-align: justify;
+}
+
+footer p {
+	font-family: arial;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #CBC6C6 ;
+	text-shadow: 0 0 0.6em grey, 0 0 0.6em grey, 0 0 0.6em grey;
+	font-size: 0.9cm;
+}
+
+img {
+	padding-left: 12%;
+}
